@@ -7,7 +7,7 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=weslleyphillype&theme=midnight-purple&show_icons=true&layout=compact" />
 </div>
 
-![snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribuition-grid-snake.svg)
+![snake eif](https://github.com/WeslleyPhillype/WeslleyPhillype/blob/output/github-contribuition-grid-snake.svg)
 
 
 <p align="center">
