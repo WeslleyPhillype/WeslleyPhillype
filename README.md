@@ -16,6 +16,7 @@
 
 <div align="center">  
 <a href="https://www.instagram.com/kirito.sinbad/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
+<a href="https://www.linkedin.com/in/weslley-phillype-790536260/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"</a>
 </div>
 
 ### Main skills:
