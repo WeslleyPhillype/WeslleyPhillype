@@ -2,12 +2,12 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=9400d3&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+Name+is+Weslley+P.+T.+Leurentino;I'm+26+years+old;I+from+Brazil,+Recife,PE;I+study+Backend+Developer+at+Alura;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-<div align="center">  
+<!--<div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=weslleyphillype&theme=midnight-purple&show_icons=true" alt="weslley phillype tavares laurentino github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=weslleyphillype&theme=midnight-purple&show_icons=true&layout=compact" />
-</div>
+</div>-->
 
-![snake gif](https://github.com/WeslleyPhillype/WeslleyPhillype/blob/output/github-contribution-grid-snake.svg)
+<!--![snake gif](https://github.com/WeslleyPhillype/WeslleyPhillype/blob/output/github-contribution-grid-snake.svg)-->
 
 
 <p align="center">
