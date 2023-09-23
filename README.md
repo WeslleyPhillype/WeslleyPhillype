@@ -10,9 +10,9 @@
 <!--![snake gif](https://github.com/WeslleyPhillype/WeslleyPhillype/blob/output/github-contribution-grid-snake.svg)-->
 
 
-<p align="center">
+<!--<p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=WeslleyPhillype&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-</p>
+</p>-->
 
 <div align="center">  
 <a href="https://www.instagram.com/kirito.sinbad/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
